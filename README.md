@@ -7,4 +7,3 @@ Ich mache eine Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** in
 - 🏢 **Praxis:** Praktikum in der IT-Abteilung – Webseitenpflege mit WordPress, SEO-Analysen
 - 🌍 **Sprachen:** Deutsch, Russisch, Englisch
 - 🎮 **Außerhalb vom Code:** Gaming & Modedesign
-- 
